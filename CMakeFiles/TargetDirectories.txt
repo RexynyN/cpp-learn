@@ -1,0 +1,3 @@
+/home/breno/codes/cpp-learn/CMakeFiles/cvLearn.dir
+/home/breno/codes/cpp-learn/CMakeFiles/edit_cache.dir
+/home/breno/codes/cpp-learn/CMakeFiles/rebuild_cache.dir
