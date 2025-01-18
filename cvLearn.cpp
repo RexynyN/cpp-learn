@@ -118,7 +118,7 @@ Mat extractORBFeatures(const Mat& image) {
 
 int main(int argc, char** argv) {
     string path = "img.jpg";
-
+    cout << "Bonk" << endl;
     // extract_frames(path, 10000000000, 700);
 
 
